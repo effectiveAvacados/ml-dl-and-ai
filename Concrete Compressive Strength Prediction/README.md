@@ -1,8 +1,8 @@
-This project contains implementations of heart disease prediction.
+This project contains implementations of concrete compressive strength prediction.
 
 ### Language: 
 Python <br />
 ### Algorithms used: 
-Random Forest Classification <br />
+Linear Regression <br />
 ### Authors: <br />
 [@espurrr](https://github.com/espurrr)
