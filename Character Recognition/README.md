@@ -1,8 +1,8 @@
 This folder contains implementations of character recognition algorithms.
 
-## Language: 
+### Language: 
 Python <br />
-## Algorithms used: 
+### Algorithms used: 
 Random Forest Classification <br />
-## Authors: <br />
+### Authors: <br />
 [@vinuud](https://github.com/VinuUD)
